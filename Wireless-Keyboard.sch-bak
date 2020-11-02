@@ -2627,12 +2627,21 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX31
 U 1 1 5FB17DFF
+<<<<<<< Updated upstream
 P 6700 5400
 F 0 "MX31" H 6733 5623 60  0000 C CNN
 F 1 "step cap 1.75u" H 6733 5549 20  0000 C CNN
 F 2 "MX_Only:MXOnly-1U-NoLED" H 6075 5375 60  0001 C CNN
 F 3 "" H 6075 5375 60  0001 C CNN
 	1    6700 5400
+=======
+P 6725 5400
+F 0 "MX31" H 6758 5623 60  0000 C CNN
+F 1 "step cap 1.75u" H 6758 5549 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6100 5375 60  0001 C CNN
+F 3 "" H 6100 5375 60  0001 C CNN
+	1    6725 5400
+>>>>>>> Stashed changes
 	1    0    0    -1  
 $EndComp
 Connection ~ 7200 5350

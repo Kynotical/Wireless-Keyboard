@@ -651,6 +651,7 @@ Wire Wire Line
 	8000 5100 7500 5100
 $Comp
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 L MX_Alps_Hybrid:MX-NoLED MX16
 U 1 1 5FA26FA2
 P 8550 3900
@@ -675,6 +676,8 @@ $EndComp
 $Comp
 L Device:D_Small D17
 =======
+=======
+>>>>>>> Stashed changes
 L Device:D_Small D19
 >>>>>>> Stashed changes
 U 1 1 5FA26FAE
@@ -1258,6 +1261,7 @@ $Comp
 L MX_Alps_Hybrid:MX-NoLED MX67
 U 1 1 5FA6B79E
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 P 13550 4650
 F 0 "MX67" H 13583 4873 60  0000 C CNN
 F 1 "Blank 3 1.5u" H 13583 4799 20  0000 C CNN
@@ -1265,18 +1269,24 @@ F 2 "MX_Only:MXOnly-1.5U-NoLED" H 12925 4625 60  0001 C CNN
 F 3 "" H 12925 4625 60  0001 C CNN
 	1    13550 4650
 =======
+=======
+>>>>>>> Stashed changes
 P 13700 4650
 F 0 "MX30" H 13733 4873 60  0000 C CNN
 F 1 "\\ 1.5u" H 13733 4799 20  0000 C CNN
 F 2 "MX_Only:MXOnly-1.5U-NoLED" H 13075 4625 60  0001 C CNN
 F 3 "" H 13075 4625 60  0001 C CNN
 	1    13700 4650
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D67
 U 1 1 5FA6B7A4
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 P 13500 5000
 F 0 "D67" V 13546 4930 50  0000 R CNN
@@ -1285,18 +1295,24 @@ F 2 "Diode_SMD:D_SOD-123" V 13409 4930 50  0001 R CNN
 F 3 "~" V 13500 5000 50  0001 C CNN
 	1    13500 5000
 =======
+=======
+>>>>>>> Stashed changes
 P 13650 5000
 F 0 "D29" V 13696 4930 50  0000 R CNN
 F 1 "D_Small" V 13605 4930 50  0000 R CNN
 F 2 "Diode_SMD:D_SOD-123" V 13559 4930 50  0001 R CNN
 F 3 "~" V 13650 5000 50  0001 C CNN
 	1    13650 5000
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D66
 U 1 1 5FA6B7AA
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 P 13500 4250
 F 0 "D66" V 13546 4180 50  0000 R CNN
@@ -1305,12 +1321,17 @@ F 2 "Diode_SMD:D_SOD-123" V 13409 4180 50  0001 R CNN
 F 3 "~" V 13500 4250 50  0001 C CNN
 	1    13500 4250
 =======
+=======
+>>>>>>> Stashed changes
 P 13650 4250
 F 0 "D14" V 13696 4180 50  0000 R CNN
 F 1 "D_Small" V 13605 4180 50  0000 R CNN
 F 2 "Diode_SMD:D_SOD-123" V 13559 4180 50  0001 R CNN
 F 3 "~" V 13650 4250 50  0001 C CNN
 	1    13650 4250
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	0    -1   -1   0   
 $EndComp
@@ -1325,6 +1346,7 @@ Wire Wire Line
 	13850 3850 13850 3600
 Text GLabel 13850 3450 1    50   Input ~ 0
 COL13
+<<<<<<< Updated upstream
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX71
 U 1 1 5FA6B7B8
@@ -1354,6 +1376,8 @@ Wire Wire Line
 	14850 3850 14850 3450
 Text GLabel 14850 3450 1    50   Input ~ 0
 COL14
+=======
+>>>>>>> Stashed changes
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX73
 U 1 1 5FA6B7D8
@@ -1469,8 +1493,11 @@ Wire Wire Line
 	8000 5550 8000 5650
 Wire Wire Line
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	8200 5350 8200 4600
 Wire Wire Line
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 	8000 5850 7500 5850
@@ -1758,6 +1785,7 @@ $Comp
 L MX_Alps_Hybrid:MX-NoLED MX68
 U 1 1 5FAA31A7
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 P 13550 5400
 F 0 "MX68" H 13583 5623 60  0000 C CNN
 F 1 "tilda#" H 13583 5549 20  0000 C CNN
@@ -1765,18 +1793,24 @@ F 2 "MX_Only:MXOnly-1U-NoLED" H 12925 5375 60  0001 C CNN
 F 3 "" H 12925 5375 60  0001 C CNN
 	1    13550 5400
 =======
+=======
+>>>>>>> Stashed changes
 P 13700 5400
 F 0 "MX45" H 13733 5623 60  0000 C CNN
 F 1 "enter 2.25u" H 13733 5549 20  0000 C CNN
 F 2 "MX_Only:MXOnly-2.25U-NoLED" H 13075 5375 60  0001 C CNN
 F 3 "" H 13075 5375 60  0001 C CNN
 	1    13700 5400
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D68
 U 1 1 5FAA31AD
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 P 13500 5750
 F 0 "D68" V 13546 5680 50  0000 R CNN
@@ -1785,12 +1819,17 @@ F 2 "Diode_SMD:D_SOD-123" V 13409 5680 50  0001 R CNN
 F 3 "~" V 13500 5750 50  0001 C CNN
 	1    13500 5750
 =======
+=======
+>>>>>>> Stashed changes
 P 13650 5750
 F 0 "D43" V 13696 5680 50  0000 R CNN
 F 1 "D_Small" V 13605 5680 50  0000 R CNN
 F 2 "Diode_SMD:D_SOD-123" V 13559 5680 50  0001 R CNN
 F 3 "~" V 13650 5750 50  0001 C CNN
 	1    13650 5750
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	0    -1   -1   0   
 $EndComp
@@ -1802,6 +1841,7 @@ $Comp
 L MX_Alps_Hybrid:MX-NoLED MX72
 U 1 1 5FAA31B6
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 P 14700 5400
 F 0 "MX72" H 14733 5623 60  0000 C CNN
 F 1 "ENTER ISO" H 14733 5549 20  0000 C CNN
@@ -1809,12 +1849,17 @@ F 2 "MX_Only:MXOnly-ISO" H 14075 5375 60  0001 C CNN
 F 3 "" H 14075 5375 60  0001 C CNN
 	1    14700 5400
 =======
+=======
+>>>>>>> Stashed changes
 P 14050 5400
 F 0 "MX46" H 14083 5623 60  0000 C CNN
 F 1 "ENTER ISO" H 14083 5549 20  0000 C CNN
 F 2 "MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED" H 13425 5375 60  0001 C CNN
 F 3 "" H 13425 5375 60  0001 C CNN
 	1    14050 5400
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	1    0    0    -1  
 $EndComp
@@ -1854,6 +1899,9 @@ F 2 "MX_Only:MXOnly-1.25U-NoLED" H 6425 6125 60  0001 C CNN
 F 0 "MX48" H 7083 6373 60  0000 C CNN
 F 1 "LShift 2.25u" H 7083 6299 20  0000 C CNN
 F 2 "MX_Only:MXOnly-1U-NoLED" H 6425 6125 60  0001 C CNN
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 F 3 "" H 6425 6125 60  0001 C CNN
 	1    7050 6150
@@ -2174,7 +2222,11 @@ Wire Wire Line
 	12500 6300 12500 6400
 Wire Wire Line
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	12700 6100 12700 5350
+=======
+	13200 6100 13200 5950
+>>>>>>> Stashed changes
 =======
 	13200 6100 13200 5950
 >>>>>>> Stashed changes
@@ -2355,6 +2407,7 @@ Wire Wire Line
 	10000 7050 10000 7150
 Wire Wire Line
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	10200 6850 10200 6100
 Wire Wire Line
 	10000 7350 9500 7350
@@ -2364,6 +2417,9 @@ Wire Wire Line
 	11000 7350 10500 7350
 Wire Wire Line
 	11500 7350 11000 7350
+=======
+	11500 7050 11500 7150
+>>>>>>> Stashed changes
 =======
 	11500 7050 11500 7150
 >>>>>>> Stashed changes
@@ -3297,5 +3353,8 @@ Connection ~ 12700 6850
 Connection ~ 13200 6850
 Connection ~ 14800 4350
 Connection ~ 15000 3850
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 $EndSCHEMATC

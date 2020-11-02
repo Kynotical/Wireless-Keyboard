@@ -197,7 +197,10 @@ ENDDRAW
 ENDDEF
 #
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 # Wireless-Keyboard-rescue_HRO-TYPE-C-31-M-12-typ-c
 #
 DEF Wireless-Keyboard-rescue_HRO-TYPE-C-31-M-12-typ-c USB 0 40 Y Y 1 F N
@@ -285,6 +288,7 @@ ENDDRAW
 ENDDEF
 #
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # random-keyboard-parts_Molex-0548190589
 #
 DEF random-keyboard-parts_Molex-0548190589 USB 0 40 Y Y 1 F N
@@ -304,6 +308,8 @@ X SHIELD 6 300 -300 200 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #End Library
