@@ -2753,7 +2753,7 @@ Connection ~ 12700 5350
 Connection ~ 13200 5350
 Connection ~ 7700 6100
 $Comp
-L RF_Modules:MDBT40 U2
+L Wireless-Keyboard-rescue:MDBT40-RF_Modules U2
 U 1 1 5FAAA71F
 P 2975 9475
 F 0 "U2" H 2975 10617 40  0000 C CNN
