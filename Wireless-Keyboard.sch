@@ -368,13 +368,13 @@ Text GLabel 7200 3450 1    50   Input ~ 0
 COL0
 Text GLabel 7700 3450 1    50   Input ~ 0
 COL1
-Text GLabel 3600 2300 2    50   Input ~ 0
+Text GLabel 3600 3600 2    50   Input ~ 0
 COL2
-Text GLabel 3600 2200 2    50   Input ~ 0
+Text GLabel 3600 3900 2    50   Input ~ 0
 COL0
-Text GLabel 3600 2800 2    50   Input ~ 0
+Text GLabel 3600 2700 2    50   Input ~ 0
 COL8
-Text GLabel 3600 4100 2    50   Input ~ 0
+Text GLabel 3600 4400 2    50   Input ~ 0
 ROW4
 Wire Notes Line
 	4800 5850 650  5850
@@ -2510,42 +2510,42 @@ F 3 "~" H 1125 4800 50  0001 C CNN
 	1    1125 4800
 	-1   0    0    1   
 $EndComp
-Text GLabel 3600 2400 2    50   Input ~ 0
+Text GLabel 3600 3500 2    50   Input ~ 0
 COL3
-Text GLabel 3600 2500 2    50   Input ~ 0
+Text GLabel 3600 3400 2    50   Input ~ 0
 COL4
-Text GLabel 3600 2600 2    50   Input ~ 0
+Text GLabel 3600 4000 2    50   Input ~ 0
 COL5
-Text GLabel 3600 2700 2    50   Input ~ 0
+Text GLabel 3600 4100 2    50   Input ~ 0
 COL6
-Text GLabel 3600 2900 2    50   Input ~ 0
+Text GLabel 3600 2800 2    50   Input ~ 0
 COL9
 Text GLabel 3600 3100 2    50   Input ~ 0
 COL10
 Text GLabel 3600 3200 2    50   Input ~ 0
 COL11
-Text GLabel 3600 3400 2    50   Input ~ 0
+Text GLabel 3600 5000 2    50   Input ~ 0
 COL12
-Text GLabel 3600 3500 2    50   Input ~ 0
+Text GLabel 3600 5100 2    50   Input ~ 0
 COL13
-Text GLabel 3600 3600 2    50   Input ~ 0
-COL14
-Text GLabel 3600 3700 2    50   Input ~ 0
-ROW0
-Text GLabel 3600 3800 2    50   Input ~ 0
-ROW1
-Text GLabel 3600 3900 2    50   Input ~ 0
-ROW2
-Text GLabel 3600 4000 2    50   Input ~ 0
-ROW3
-NoConn ~ 3600 4700
-NoConn ~ 3600 4800
-NoConn ~ 3600 4900
-NoConn ~ 3600 5000
-NoConn ~ 3600 5100
-Text GLabel 3600 4400 2    50   Input ~ 0
-COL7
 Text GLabel 3600 4600 2    50   Input ~ 0
+COL14
+Text GLabel 3600 4700 2    50   Input ~ 0
+ROW0
+Text GLabel 3600 4800 2    50   Input ~ 0
+ROW1
+Text GLabel 3600 4900 2    50   Input ~ 0
+ROW2
+Text GLabel 3600 3800 2    50   Input ~ 0
+ROW3
+NoConn ~ 3600 2500
+NoConn ~ 3600 2400
+NoConn ~ 3600 2900
+NoConn ~ 3600 2200
+NoConn ~ 3600 2300
+Text GLabel 3600 2600 2    50   Input ~ 0
+COL7
+Text GLabel 3600 3700 2    50   Input ~ 0
 COL1
 Connection ~ 8000 6600
 Connection ~ 8200 6100
@@ -2753,7 +2753,7 @@ Connection ~ 12700 5350
 Connection ~ 13200 5350
 Connection ~ 7700 6100
 $Comp
-L Wireless-Keyboard-rescue:MDBT40-RF_Modules U2
+L RF_Modules:MDBT40 U2
 U 1 1 5FAAA71F
 P 2975 9475
 F 0 "U2" H 2975 10617 40  0000 C CNN
