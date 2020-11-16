@@ -200,6 +200,7 @@ X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
+<<<<<<< Updated upstream
 # Wireless-Keyboard-rescue_HRO-TYPE-C-31-M-12-typ-c
 #
 DEF Wireless-Keyboard-rescue_HRO-TYPE-C-31-M-12-typ-c USB 0 40 Y Y 1 F N
@@ -207,6 +208,15 @@ F0 "USB" -200 650 60 H V C CNN
 F1 "Wireless-Keyboard-rescue_HRO-TYPE-C-31-M-12-typ-c" -400 -50 60 V V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
+=======
+# Wireless-Keyboard-rescue_SW_PUSH-keyboardparts
+#
+DEF Wireless-Keyboard-rescue_SW_PUSH-keyboardparts SW 0 40 N N 1 F N
+F0 "SW" 150 110 50 H V C CNN
+F1 "Wireless-Keyboard-rescue_SW_PUSH-keyboardparts" 0 -80 50 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+>>>>>>> Stashed changes
 DRAW
 S -450 600 -350 -700 0 1 0 f
 S 0 -700 -350 600 0 1 0 f

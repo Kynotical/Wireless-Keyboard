@@ -2752,4 +2752,73 @@ Connection ~ 12200 5350
 Connection ~ 12700 5350
 Connection ~ 13200 5350
 Connection ~ 7700 6100
+<<<<<<< Updated upstream
+=======
+$Comp
+L Wireless-Keyboard-rescue:FEATHERWING-mcu MS1
+U 1 1 5FB465ED
+P 2525 4500
+F 0 "MS1" H 2525 4500 45  0001 C CNN
+F 1 "FEATHERWING" H 2525 4500 45  0001 C CNN
+F 2 "adafruit:FEATHERWING" H 2525 4500 50  0001 C CNN
+F 3 "" H 2525 4500 50  0001 C CNN
+	1    2525 4500
+	0    1    1    0   
+$EndComp
+NoConn ~ 4025 5100
+NoConn ~ 4025 5200
+NoConn ~ 4025 5300
+NoConn ~ 2325 4900
+NoConn ~ 2325 4800
+NoConn ~ 2325 6200
+$Comp
+L power:GND #PWR011
+U 1 1 5FC39D3A
+P 1775 5000
+F 0 "#PWR011" H 1775 4750 50  0001 C CNN
+F 1 "GND" H 1780 4827 50  0000 C CNN
+F 2 "" H 1775 5000 50  0001 C CNN
+F 3 "" H 1775 5000 50  0001 C CNN
+	1    1775 5000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2325 5000 1925 5000
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5FC7BD32
+P 1925 5000
+F 0 "#FLG0101" H 1925 5075 50  0001 C CNN
+F 1 "PWR_FLAG" H 1925 5173 50  0000 C CNN
+F 2 "" H 1925 5000 50  0001 C CNN
+F 3 "~" H 1925 5000 50  0001 C CNN
+	1    1925 5000
+	-1   0    0    1   
+$EndComp
+Connection ~ 1925 5000
+Wire Wire Line
+	1925 5000 1775 5000
+$Comp
+L Wireless-Keyboard-rescue:SW_PUSH-keyboardparts SW1
+U 1 1 5FBCE523
+P 2025 4700
+F 0 "SW1" H 2025 4955 50  0000 C CNN
+F 1 "SW_PUSH" H 2025 4864 50  0000 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 2025 4700 60  0001 C CNN
+F 3 "" H 2025 4700 60  0000 C CNN
+	1    2025 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5FBCFAF9
+P 1725 4700
+F 0 "#PWR01" H 1725 4450 50  0001 C CNN
+F 1 "GND" H 1730 4527 50  0000 C CNN
+F 2 "" H 1725 4700 50  0001 C CNN
+F 3 "" H 1725 4700 50  0001 C CNN
+	1    1725 4700
+	1    0    0    -1  
+$EndComp
+>>>>>>> Stashed changes
 $EndSCHEMATC
