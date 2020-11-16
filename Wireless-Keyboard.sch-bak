@@ -2891,7 +2891,6 @@ F 3 "~" H 1100 8750 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-<<<<<<< Updated upstream
 L Device:C_Small C?
 U 1 1 5FD59789
 P 1400 8750
@@ -2911,16 +2910,6 @@ F 1 "GND" H 1405 8777 50  0000 C CNN
 F 2 "" H 1400 8950 50  0001 C CNN
 F 3 "" H 1400 8950 50  0001 C CNN
 	1    1400 8950
-=======
-L keyboardparts:SW_PUSH SW1
-U 1 1 5FBCE523
-P 2025 4700
-F 0 "SW1" H 2025 4955 50  0000 C CNN
-F 1 "SW_PUSH" H 2025 4864 50  0000 C CNN
-F 2 "random-keyboard-parts:SKQG-1155865" H 2025 4700 60  0001 C CNN
-F 3 "" H 2025 4700 60  0000 C CNN
-	1    2025 4700
->>>>>>> Stashed changes
 	1    0    0    -1  
 $EndComp
 $Comp
